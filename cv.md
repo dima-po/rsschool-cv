@@ -7,6 +7,7 @@
 * Phone: +998(90) 901-68-88
 * Email: [dima.djunaev@gmail.com](mailto:dima.djunaev@gmail.com)
 * Telegram: [@dimapo](https://t.me/dimapo)
+* Discord: [@dimapo#2967](https://discordapp.com/users/dimapo#2967)
 
 ---
 
