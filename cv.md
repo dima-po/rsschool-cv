@@ -1,3 +1,6 @@
+
+![Dmitriy Djunaev](https://s90vla.storage.yandex.net/rdisk/47fe5d2bb6b9454f6fbb773704a32845545c03eae0e6fcd66004a2887d7cf98f/628f9869/HDBV4UnNRqi12hm1V6JtQ7cDMRvarfgwc2nQVAgJUMUtKziG-rlyLdfqLs_beL2V796SfIGJCzAVU4wJ18n77g==?uid=111967748&filename=dimapo200.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=111967748&fsize=20058&hid=808b7eda26cd3b7d8478b60a8da027c2&media_type=image&tknv=v2&etag=1cf271ba15f7bf9f71ba1fac6477fbc9&rtoken=aFCqqiKogDih&force_default=yes&ycrid=na-52cc4828e55f29543511d85b03db5100-downloader18e&ts=5dfeb97582c40&s=e6dca8c4b7ee81d3c51dbec0cb1713a13b2e5caf49f84f03e7991aaf698416f0&pb=U2FsdGVkX180KfjWRsknhIRCYE19BY-plXapFixNfi06Sh2ONgIrTN8GX2-bTOJyXe0baXU-pZpLFpo_ol6TVLqGuepE5_xAYKIj5WOhBmg)
+
 # Dmitriy Djunaev
 ## Junior Frontend Developer
 
