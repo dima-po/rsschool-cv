@@ -4,14 +4,14 @@
 ---
 
 ### Contact information: 
-#### Phone: +998(90) 901-68-88
-#### Email: [dima.djunaev@gmail.com](mailto:dima.djunaev@gmail.com)
-#### Telegram: [@dimapo](https://t.me/dimapo)
+* Phone: +998(90) 901-68-88
+* Email: [dima.djunaev@gmail.com](mailto:dima.djunaev@gmail.com)
+* Telegram: [@dimapo](https://t.me/dimapo)
 
 ---
 
 ### Briefly About Myself:
-
+I started my career at the age of 20 as a Consultant Manager in a small company, after working for 4 years, I quit and went to the position of warehouse manager in a large company. After 2 years, it became clear that everything I do no longer brings pleasure. In his spare time, he studied graphic design and, having gained enough experience, went to work as a layout designer in a glossy magazine. In the process of work, I never stopped at what I had achieved and continued my self-education. That's how I got acquainted with the world of Web technologies. I read, watched training videos, made up simple sites, then more complicated. Then there was an introduction to the HTML Academy, where he received comprehensive knowledge of HTML and CSS on interactive simulators. There he also took 2 professional layout courses with a mentor and defended them perfectly. Now I work in the office of a large supermarket chain in the IT department. I continue to be interested in web development by reading and studying information on various specialized resources.
 
 ---
 
@@ -47,3 +47,11 @@
 
 4. [Hexlet](https://ru.hexlet.io/u/dimapo). Сompleted initial training under the Frontend Developer program. I'm going to come back. 
 5. [Code Basics](https://ru.code-basics.com/languages/javascript). Сompleted Javascript Course.
+
+---
+
+### Languages:
+
+* English - A2 Level
+* Russian - Native
+* Uzbek - Basic
